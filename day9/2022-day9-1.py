@@ -1,3 +1,4 @@
+#Day 9 - Part 1: https://adventofcode.com/2022/day/9
 input_file = open('input.txt', 'r')
 #take input as instructions
 directions = input_file.readlines()
